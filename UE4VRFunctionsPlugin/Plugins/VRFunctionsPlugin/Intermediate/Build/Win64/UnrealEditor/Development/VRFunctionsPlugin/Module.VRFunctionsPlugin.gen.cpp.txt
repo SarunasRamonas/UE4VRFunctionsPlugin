@@ -1,0 +1,7 @@
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRFunctionsPlugin\Definitions.VRFunctionsPlugin.h
+C:/Repositories/Personal/UE4VRFunctionsPlugin/UE4VRFunctionsPlugin/Plugins/VRFunctionsPlugin/Intermediate/Build/Win64/UnrealEditor/Inc/VRFunctionsPlugin/VRFunctionsPlugin.init.gen.cpp
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:/Repositories/Personal/UE4VRFunctionsPlugin/UE4VRFunctionsPlugin/Plugins/VRFunctionsPlugin/Intermediate/Build/Win64/UnrealEditor/Inc/VRFunctionsPlugin/VRFunctionsPluginBPLibrary.gen.cpp
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin/Public/VRFunctionsPluginBPLibrary.h
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\VRFunctionsPlugin\VRFunctionsPluginBPLibrary.generated.h

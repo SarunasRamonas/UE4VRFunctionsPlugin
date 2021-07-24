@@ -1,0 +1,2 @@
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\UE4VRFunctionsPlugin\Definitions.UE4VRFunctionsPlugin.h
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin.h

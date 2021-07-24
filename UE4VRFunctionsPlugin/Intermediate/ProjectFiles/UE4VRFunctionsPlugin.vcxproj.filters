@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UE4VRFunctionsPlugin.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B608DE8D-1359-4BB0-A900-64FC7B7834BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4VRFunctionsPlugin.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UE4VRFunctionsPluginEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{99BAF4DD-FCBD-487A-AA48-3B0FB4A607A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{2D1EFC6D-71EA-48F8-A33C-D5940715543A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VRFunctionsPlugin">
+      <UniqueIdentifier>{FFE5E8B5-1FB7-41EB-8C0D-0CB13C1CB29D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VRFunctionsPlugin\Source">
+      <UniqueIdentifier>{B64B6E8D-9DEC-4AB1-AB49-AA86BEC83567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin">
+      <UniqueIdentifier>{6C7DC4FC-0C80-4DDA-A1D8-F017F6358214}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\VRFunctionsPlugin.Build.cs">
+      <Filter>Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Private">
+      <UniqueIdentifier>{8857DAA8-161B-40AD-9A48-4A3FB782FAE5}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Private\VRFunctionsPlugin.cpp">
+      <Filter>Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Private\VRFunctionsPluginBPLibrary.cpp">
+      <Filter>Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Public">
+      <UniqueIdentifier>{EFD26A17-BFC2-4B37-A261-4CF5D0432583}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Public\VRFunctionsPlugin.h">
+      <Filter>Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Public\VRFunctionsPluginBPLibrary.h">
+      <Filter>Plugins\VRFunctionsPlugin\Source\VRFunctionsPlugin\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\VRFunctionsPlugin\VRFunctionsPlugin.uplugin">
+      <Filter>Plugins\VRFunctionsPlugin</Filter>
+    </None>
+    <Filter Include="Plugins\VRFunctionsPlugin\Resources">
+      <UniqueIdentifier>{EC74FDD7-7F38-4608-89F0-F60052AE8367}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VRFunctionsPlugin\Resources\Icon128.png">
+      <Filter>Plugins\VRFunctionsPlugin\Resources</Filter>
+    </None>
+    <Filter Include="Source\UE4VRFunctionsPlugin">
+      <UniqueIdentifier>{D52B33A6-EF46-4F85-B7AA-4645A400C211}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin.Build.cs">
+      <Filter>Source\UE4VRFunctionsPlugin</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin.cpp">
+      <Filter>Source\UE4VRFunctionsPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin.h">
+      <Filter>Source\UE4VRFunctionsPlugin</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPluginGameModeBase.cpp">
+      <Filter>Source\UE4VRFunctionsPlugin</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPluginGameModeBase.h">
+      <Filter>Source\UE4VRFunctionsPlugin</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

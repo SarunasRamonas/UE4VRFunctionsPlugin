@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VRFunctionsPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Intermediate\Build\Win64\UE4VRFunctionsPluginEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRFunctionsPlugin\Module.VRFunctionsPlugin.cpp.obj"
+"C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRFunctionsPlugin\Module.VRFunctionsPlugin.gen.cpp.obj"
+"C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRFunctionsPlugin\Default.rc2.res"
+/OUT:"C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Plugins\VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\VRFunctionsPlugin\UnrealEditor-VRFunctionsPlugin.lib"
+/INCLUDE:IMPLEMENT_MODULE_VRFunctionsPlugin

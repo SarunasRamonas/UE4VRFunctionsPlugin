@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.VRFunctionsPlugin.cpp.obj": [
+			"VRFunctionsPlugin.cpp.obj",
+			"VRFunctionsPluginBPLibrary.cpp.obj"
+		],
+		"Module.VRFunctionsPlugin.gen.cpp.obj": [
+			"VRFunctionsPlugin.init.gen.cpp.obj",
+			"VRFunctionsPluginBPLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,7 @@
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Development\UE4VRFunctionsPlugin\Definitions.UE4VRFunctionsPlugin.h
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Source\UE4VRFunctionsPlugin\UE4VRFunctionsPluginGameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_5.0EA\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\GameModeBase.generated.h
+C:\Repositories\Personal\UE4VRFunctionsPlugin\UE4VRFunctionsPlugin\Intermediate\Build\Win64\UnrealEditor\Inc\UE4VRFunctionsPlugin\UE4VRFunctionsPluginGameModeBase.generated.h

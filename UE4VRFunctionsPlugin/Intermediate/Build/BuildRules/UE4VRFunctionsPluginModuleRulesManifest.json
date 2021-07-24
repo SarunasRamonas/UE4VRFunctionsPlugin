@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Repositories\\Personal\\UE4VRFunctionsPlugin\\UE4VRFunctionsPlugin\\Source\\UE4VRFunctionsPlugin\\UE4VRFunctionsPlugin.Build.cs",
+		"C:\\Repositories\\Personal\\UE4VRFunctionsPlugin\\UE4VRFunctionsPlugin\\Plugins\\VRFunctionsPlugin\\Source\\VRFunctionsPlugin\\VRFunctionsPlugin.Build.cs",
+		"C:\\Repositories\\Personal\\UE4VRFunctionsPlugin\\UE4VRFunctionsPlugin\\Source\\UE4VRFunctionsPlugin.Target.cs",
+		"C:\\Repositories\\Personal\\UE4VRFunctionsPlugin\\UE4VRFunctionsPlugin\\Source\\UE4VRFunctionsPluginEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.0"
+}
